@@ -5,6 +5,7 @@ This is a simple modifier for [Smarty](http://www.smarty.net/)  which automatica
 
 ##Usage
 
+Simply place `modifier.autolink.php` in your Smarty plugins folder (`smarty/libs/plugins`) and then you can use it like this:
 ```
 {$text|autolink}
 ```
