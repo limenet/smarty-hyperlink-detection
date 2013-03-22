@@ -1,4 +1,4 @@
-smarty-hyperlink-detection
+Smarty Hyperlink Detection
 ==========================
 
 This is a simple modifier for [Smarty](http://www.smarty.net/)  which automatically detects a hyperlink and replaces it appropriately (images and youtube currently supported).
